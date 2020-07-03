@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Copyright
 2014 Git.Training.
+
+## How to Contribute
+Please fork this repository and issue pull requests for review
